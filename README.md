@@ -13,7 +13,8 @@ An interactive Excel dashboard built to analyze and visualize UPI (Unified Payme
 - *Data Cleaning & Modeling:* Structured data formatting, validation, and date-wise aggregation.
 
 ## 📊 Dashboard Preview
-<img width="677" height="432" alt="image" src="https://github.com/user-attachments/assets/b1005d98-6138-45d8-a015-bffdcc8d97b0" />
+<img width="671" height="421" alt="image" src="https://github.com/user-attachments/assets/f3557ca2-4f22-46f0-8cfb-72efed564b65" />
+
 
 
 
